@@ -1,2 +1,3 @@
-# Website-creation
-In this repository i am uploading my website based projects.
+# gaming website -Hmtl-CSS-Javascript
+In this repositery the gaming website named "Gamics" 
+
